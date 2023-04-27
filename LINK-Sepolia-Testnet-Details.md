@@ -1,13 +1,21 @@
 OracleSpace Chainlink Public Jobs on Ethereum Sepolia
 
 List of jobs
+
 Job	Availability / Cost / Limits
+
 HTTP Get > Bool	⏳ Coming Soon
+
 HTTP Get > Bytes	✅ / 0.15 LINK / 🟢
+
 HTTP Get > Bytes[]	⏳ Coming Soon
+
 HTTP Get > Uint256	⏳ Coming Soon
+
 HTTP Get > Uint256,Uint256	⏳ Coming Soon
+
 HTTP Get > Uint256[]	⏳ Coming Soon
+
 AccuWeather Get Current Conditions by Location Coordinates	Provided on request
 
 OracleSpace HTTP Get > Bytes on Ethereum Sepolia
